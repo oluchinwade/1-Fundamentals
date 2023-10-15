@@ -33,4 +33,4 @@ To get started with this repository, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/python-fundamentals.git
+   git clone https://github.com/oluchinwade/python-fundamentals.git
