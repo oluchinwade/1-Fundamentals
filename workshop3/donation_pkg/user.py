@@ -16,4 +16,3 @@ def register(database, username):
         return ""
     else:
         print(f"{username} you've been registered!")
-     

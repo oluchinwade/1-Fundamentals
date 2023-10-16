@@ -41,6 +41,3 @@ while True:
     else:
         print("Sad to see you go. Goodbye!")
         break
-
-
-
