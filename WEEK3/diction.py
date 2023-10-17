@@ -5,7 +5,7 @@ ingredients['flour'] = '3.5 cups'
 ingredients['egg'] = '3'
 print(ingredients)
 print("Here are the ingredients needed to make Pancakes")
-for s in ingredients:
+for s in (ingredients):
     print(s)
     print(ingredients[s])
 for t in ingredients.values():
