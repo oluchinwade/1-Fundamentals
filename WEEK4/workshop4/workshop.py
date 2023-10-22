@@ -26,12 +26,16 @@ class BankUser(User):
         print(balance)
     
     def withdraw(self, amount):
+        self.amount = 0
         self.balance -= amount
         return self.balance
     
     def deposit(self, amount):
+        self.amount = 0
         self.balance += amount
         return self.balance
+
+
     
 
 
