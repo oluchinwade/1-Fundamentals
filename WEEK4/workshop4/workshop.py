@@ -71,9 +71,6 @@ class BankUser(User):
             print("Invalid recipient's PIN. Transaction canceled.")
     
 
-    
-
-
 
 
 
