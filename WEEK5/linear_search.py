@@ -11,4 +11,4 @@ def linear_search(the_list, target):
 my_list = [6,2,3,9,8]
 linear_search(my_list,8)
 linear_search(my_list,2)
-linear_search(my_list,7) 
+linear_search(my_list,7)  
